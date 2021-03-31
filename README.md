@@ -1,5 +1,4 @@
 # Week-4-Independent-Project
-Colab notebook-python data analysis
 ## Business Overview
 Autolib' is an electric car sharing service which was inaugurated in Paris, France, in December 2011. It’s operated by the Bolloré industrial group, and complements the city's bike sharing system, Velib', which was set up in 2007. The Autolib' service maintains a fleet of all-electric Bolloré Blue Cars for public use on a paid subscription basis, employing a citywide network of parking and charging stations.(link). 
 ## Business Objective
